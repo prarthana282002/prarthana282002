@@ -11,6 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=prarthana282002&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
+--- 
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prarthana282002&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
@@ -22,10 +24,14 @@
 ## 🌱 Currently Learning
 ![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge&logo=spring)
 
+---
+
 ## 💬 Ask Me About
 ![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge&logo=java)
 ![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
 
+ --- 
+ 
 ## 📫 How to Reach Me
 [![Email](https://img.shields.io/badge/Email-prarthanahajare28@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dprarthanahajare28@gmail.com)
 
@@ -60,21 +66,21 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhiraj-jadhav3121&theme=radical&margin-w=15&margin-h=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prarthana282002&theme=radical&margin-w=15&margin-h=15&row=1" />
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-jadhav3121&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthana282002&theme=radical" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-jadhav3121&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prarthana282002&theme=react-dark&hide_border=true" />
 </p>
 
 ---
