@@ -5,8 +5,9 @@
 --- 
 
 ## 🤝 Connect With Me
-
-  <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-prarthana-hajare-blue?style=for-the-badge&logo=linkedin"/></a>
+ <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prarthana%20Hajare-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/prarthana282002" target="_blank"><img src="https://img.shields.io/badge/GitHub-prarthana282002-black?style=for-thebadge&logo=github"/</a>
   <a href="mailto:prarthanahajare28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
