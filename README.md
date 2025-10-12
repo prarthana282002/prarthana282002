@@ -6,27 +6,25 @@
 
 ---
 
-<p align="center">
   <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=prarthana282002&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
 
 --- 
 
 ## 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prarthana282002&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana282002&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ...
 
 ## 🌱 Currently Learning
+
 ![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge&logo=spring)
 
 ---
 
 ## 💬 Ask Me About
+
 ![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge&logo=java)
 ![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
 
@@ -38,50 +36,39 @@
 ---
 
 ## 🤝 Connect With Me
-<p align="center">
+
   <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Jadhav-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/prarthana282002" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-prarthana282002-black?style=for-the-badge&logo=github" />
   </a>
-</p>
 
 ---
 
 ## 🛠 Languages and Tools
-<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,,mysql,hibernate,git,github,html,css,js" />
-</p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prarthana282002&show_icons=true&theme=tokyonight" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana282002&layout=compact&theme=tokyonight" height="180em"/>
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prarthana282002&theme=radical&margin-w=15&margin-h=15&row=1" />
-</p>
 
 ---
 
 ## 🔥 Streak Stats
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prarthana282002&theme=radical" />
-</p>
 
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prarthana282002&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
