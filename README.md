@@ -1,9 +1,9 @@
-<h1>Hi 👋, I'm Prarthana Hajare</h1>
+<h1>Hello 👋, I'm Prarthana Hajare</h1>
 <h3> Full Stack Java Developer | Spring Boot | Hibernate | MySQL | JavaScript</h3>
 
 ---
 
-## 🤝 Connect With Me  
+## 🌐 Socials 
 
 <p>
   <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b" target="_blank">
