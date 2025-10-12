@@ -9,9 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Prarthana%20Hajare-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/prarthana282002" target="_blank"><img src="https://img.shields.io/badge/GitHub-prarthana282002-black?style=for-thebadge&logo=github"/</a>
-  <a href="mailto:prarthanahajare28@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
 
   ---
   
