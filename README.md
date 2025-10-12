@@ -4,7 +4,7 @@
 
 --- 
 
-## 🤝 Connect With Me
+## 🌐 Socials
  <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prarthana%20Hajare-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
