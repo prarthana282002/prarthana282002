@@ -1,46 +1,28 @@
 <h1>✨ Hi, 👋 I'm Prarthana Hajare</h1>
 
-<h3>🚀 A Passionate FullStack Developer</h3>
-
----
-
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=prarthana282002&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+<h3> A Passionate Full-Stack Java Developer | Spring Boot </h3>
 
 --- 
 
-## 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=prarthana282002&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana282002&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 🤝 Connect With Me
 
-...
+  <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-prarthana-hajare-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/prarthana282002" target="_blank"><img src="https://img.shields.io/badge/GitHub-prarthana282002-black?style=for-thebadge&logo=github"/</a>
+  <a href="mailto:prarthanahajare28@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
 
+  ---
+  
 ## 🌱 Currently Learning
 
 ![Spring Boot](https://img.shields.io/badge/Learning-SpringBoot-brightgreen?style=for-the-badge&logo=spring)
 
 ---
 
-## 💬 Ask Me About
-
-![Java](https://img.shields.io/badge/Java-Ask%20Me-blue?style=for-the-badge&logo=java)
-![FullStack](https://img.shields.io/badge/FullStack-Development-orange?style=for-the-badge&logo=angular)
-
- --- 
- 
-## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-prarthanahajare28@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dprarthanahajare28@gmail.com)
-
----
-
-## 🤝 Connect With Me
-
-  <a href="https://www.linkedin.com/in/prarthana-hajare-24645535b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Jadhav-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/prarthana282002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-prarthana282002-black?style=for-the-badge&logo=github" />
-  </a>
+## 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=prarthana282002&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana282002&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
